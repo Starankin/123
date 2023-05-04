@@ -47,6 +47,24 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3030
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3041
 #EXTINF:-1 tvg-id="ext" tvg-name="98 | SKY SPORTS UHD ®" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-vector-logo.png" group-title="DEPORTES",98 | SKY SPORTS UHD ®
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/133854
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="13 | ESPN (Low)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTES",13 | ESPN (Low)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3851
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="14 | ESPN 2 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="DEPORTES",14 | ESPN 2 (Low)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3852
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="15 |  ESPN 3 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",15 |  ESPN 3 (Low)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3853
+#EXTINF:-1 tvg-id="I219.82547.zap2it.com" tvg-name="23 |  Fox Sports (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",23 |  Fox Sports (L)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3861
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 |  Fox Sports 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",24 |  Fox Sports 2 (L)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3862
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="25 |  Fox Sports 3 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",25 |  Fox Sports 3 (L)
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3863
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="SUR | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="DEPORTES",SUR | FOX SPORTS PREMIUM
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4787
+#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="SUR | ESPN 2" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="DEPORTES",SUR | ESPN 2
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4794
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="SUR | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",SUR | ESPN 3
+http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4795
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="01 | TELENOVELAS SONY UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="NOVELAS",01 | TELENOVELAS SONY UHD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2050
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="02 | TELENOVELAS UHD" tvg-logo="https://www.pngkey.com/png/full/146-1463700_logo-tl-novelas.png" group-title="NOVELAS",02 | TELENOVELAS UHD
@@ -423,12 +441,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3848
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3849
 #EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="12 | Disney XD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="LOW CHANNEL",12 | Disney XD (L)
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3850
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="13 | ESPN (Low)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="LOW CHANNEL",13 | ESPN (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3851
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="14 | ESPN 2 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="LOW CHANNEL",14 | ESPN 2 (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3852
-#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="15 |  ESPN 3 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LOW CHANNEL",15 |  ESPN 3 (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3853
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="16 | Distrito Comedia (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="LOW CHANNEL",16 | Distrito Comedia (Low)
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3854
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="17 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LOW CHANNEL",17 |  Star Channel (L)
@@ -443,12 +455,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3858
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3859
 #EXTINF:-1 tvg-id="ext" tvg-name="22 | TNT Series (Low)" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="LOW CHANNEL",22 | TNT Series (Low)
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3860
-#EXTINF:-1 tvg-id="I219.82547.zap2it.com" tvg-name="23 |  Fox Sports (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="LOW CHANNEL",23 |  Fox Sports (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3861
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 |  Fox Sports 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LOW CHANNEL",24 |  Fox Sports 2 (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3862
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="25 |  Fox Sports 3 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="LOW CHANNEL",25 |  Fox Sports 3 (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3863
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="26 |  FX (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="LOW CHANNEL",26 |  FX (L)
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3864
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="27 |  H2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LOW CHANNEL",27 |  H2 (L)
@@ -471,8 +477,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4783
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4784
 #EXTINF:-1 tvg-id="ext" tvg-name="SUR | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANALES: AMERICA SUR",SUR | TNT SERIES
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4785
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="SUR | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANALES: AMERICA SUR",SUR | FOX SPORTS PREMIUM
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4787
 #EXTINF:-1 tvg-id="ext" tvg-name="SUR | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | FX
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4788
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="SUR | FX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | FX MOVIES
@@ -485,10 +489,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4791
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4792
 #EXTINF:-1 tvg-id="ext" tvg-name="SUR | DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="CANALES: AMERICA SUR",SUR | DISNEY XD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4793
-#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="SUR | ESPN 2" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="CANALES: AMERICA SUR",SUR | ESPN 2
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4794
-#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="SUR | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANALES: AMERICA SUR",SUR | ESPN 3
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4795
 #EXTINF:-1 tvg-id="ext" tvg-name="SUR | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | HBO
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4796
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="SUR | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANALES: AMERICA SUR",SUR | HBO 2
