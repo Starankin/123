@@ -1,44 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="74 | ESPN4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="CANALES: DEPORTES⭐️",74 | ESPN SUR ® 
+#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="4 | ESPN4 SD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_4_logo.svg" group-title="DEPORTES⭐️",4 | ESPN4 SD 
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/1971
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="01 | TELENOVELAS SONY UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="⭐️CANALES de NOVELAS⭐️",01 | TELENOVELAS SONY UHD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2050
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Accion
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2544
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Accion HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Accion HD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2545
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Accion 3" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |Cine Accion 3
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2546
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia 1" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |Cine Ficcion/Fantasia 1
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2550
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Clásicos HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |Cine Clásicos HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2552
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Ficcion/Fantasia Sagas" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |Cine Ficcion/Fantasia Sagas
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2553
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Infantil" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Infantil
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2554
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | CINE Retro HD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | CINE Retro HD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2555
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine KIDS FHD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine KIDS FHD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2556
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | PBS KIDS FHD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | PBS KIDS FHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2557
 #EXTINF:-1 tvg-id="" tvg-name="24/7  | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="⭐️CANALES: 24/7⭐️",24/7  | Cine Latino
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2558
 #EXTINF:-1 tvg-id="" tvg-name="24/7 |  MY TIME MOVIE LATINO UHD" tvg-logo="https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-logo-transparent-png.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |  MY TIME MOVIE LATINO UHD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2559
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Romance" tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Romance
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2561
-#EXTINF:-1 tvg-id="" tvg-name="24/7 |Cine Romance HD" tvg-logo="https://i.dlpng.com/static/png/6866470_preview.png" group-title="⭐️CANALES: 24/7⭐️",24/7 |Cine Romance HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2562
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | THE BIG BANG THEORY
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2563
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Terror HD" tvg-logo="https://logopond.com/logos/52877450ae36699b3fc6ae6ef30f0015.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Terror HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2564
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cine Clásico HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dawn_Of_The_Dead_logo.png/1200px-Dawn_Of_The_Dead_logo.png" group-title="⭐️CANALES: 24/7⭐️",24/7 | Cine Clásico HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2565
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="01 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES: PREMIUM UHD⭐️",01 | STAR CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2693
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" group-title="CANALES: PREMIUM UHD⭐️",02 | UNIVERSAL REALITY UHD
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2694
 #EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="03 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" group-title="CANALES: PREMIUM UHD⭐️",03 | STAR CHANNEL UHD
@@ -85,8 +65,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2801
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2802
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="24 | CARTOON NETWORK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="CANALES: PREMIUM UHD⭐️",24 | CARTOON NETWORK ®
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2803
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="25 | CINE CANAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CANALES: PREMIUM UHD⭐️",25 | CINE CANAL ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2804
 #EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="26 | COMEDY CENTRAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CANALES: PREMIUM UHD⭐️",26 | COMEDY CENTRAL ®
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2805
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="27 | HBO 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANALES: PREMIUM UHD⭐️",27 | HBO 2 ®
@@ -141,8 +119,6 @@ http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3011
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3012
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="52 | WARNER ®" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="CANALES: PREMIUM UHD⭐️",52 | WARNER ®
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3013
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="53 | ESPN PLUS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="CANALES: PREMIUM UHD⭐️",53 | ESPN PLUS ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3014
 #EXTINF:-1 tvg-id="24Horas.cl" tvg-name="54 | HBO XTREME ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1024px-Max_Prime_2012_logo.svg.png" group-title="CANALES: PREMIUM UHD⭐️",54 | HBO XTREME ®
 http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3015
 #EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="55 | DISCOVERY THEATER ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANALES: PREMIUM UHD⭐️",55 | DISCOVERY THEATER ®
