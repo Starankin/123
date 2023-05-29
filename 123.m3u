@@ -1,856 +1,223 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTES",ESPN (SD)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3851
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN 2" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="DEPORTES",ESPN 2
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2821
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2822
-#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="ESPN 3 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 (SD)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3853
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="ESPN 3 COMPACT" tvg-logo="https://alcymedia.com/wp-content/uploads/2017/08/espn3tv.png" group-title="DEPORTES",ESPN 3 COMPACT
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3038
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN4 SD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_4_logo.svg" group-title="DEPORTES",ESPN4 SD 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/1971
-#EXTINF:-1 tvg-id="ESPN4Chile.cl" tvg-name="ESPN 4 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",ESPN 4 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3039
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/133071
-#EXTINF:-1 tvg-id="ext" tvg-name="UEFA" tvg-logo="http://assets.stickpng.com/images/5842fe06a6515b1e0ad75b3b.png" group-title="DEPORTES",UEFA
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/144583
-#EXTINF:-1 tvg-id="ext" tvg-name="SKY SPORTS Premier" tvg-logo="https://pbs.twimg.com/profile_images/1570218073428197381/dkBSHR87_400x400.jpg" group-title="DEPORTES",SKY SPORTS Premier
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160999
-#EXTINF:-1 tvg-id="ext" tvg-name="SKY SPORTS (La Liga)" tvg-logo="https://pbs.twimg.com/profile_images/1570218073428197381/dkBSHR87_400x400.jpg" group-title="DEPORTES",SKY SPORTS (La Liga)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/161000
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="FOX SPORTS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="DEPORTES",FOX SPORTS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2787
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="FOX SPORTS 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1200px-FOX_Deportes_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2788
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="FOX SPORTS 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2789
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3041
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://www.pngkey.com/png/full/146-1463700_logo-tl-novelas.png" group-title="NOVELAS",UNIVISION TELENOVELAS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3678
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="tln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="NOVELAS",tln
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3798
-#EXTINF:-1 tvg-id="ext" tvg-name="TELENOVELAS DE ORO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_da_revista_Telenovelas.png" group-title="NOVELAS",TELENOVELAS DE ORO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150865
-#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="TELENOVELAS TELEMUNDO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="NOVELAS",TELENOVELAS TELEMUNDO HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150866
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY CANAL NOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="NOVELAS",SONY CANAL NOVELAS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/151067
-#EXTINF:-1 tvg-id="ext" tvg-name="PASIONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="NOVELAS",PASIONES HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/156061
-#EXTINF:-1 tvg-id="ext" tvg-name="NOVELAS DE ROMANCE VIX HD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Vix_Logotype.svg" group-title="NOVELAS",NOVELAS DE ROMANCE VIX HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/161861
-#EXTINF:-1 tvg-id="ext" tvg-name="NOVELAS EN FAMILIA VIX HD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Vix_Logotype.svg" group-title="NOVELAS",NOVELAS EN FAMILIA VIX HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/161862
-#EXTINF:-1 tvg-id="ext" tvg-name="NOVELAS DE ORO VIX HD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Vix_Logotype.svg" group-title="NOVELAS",NOVELAS DE ORO VIX HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/161863
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 | Cine Accion HD" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES: 24/7",24/7 | Cine Accion HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2545
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 |Cine Ficcion/Fantasia 1" tvg-logo="https://images.vexels.com/media/users/3/191427/isolated/preview/f56f5b321ee2b6b55953343f4ba8b6be-movimiento-de-cine-de-acci--n-by-vexels.png" group-title="CANALES: 24/7",24/7 |Cine Ficcion/Fantasia 1
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2550
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 | Cine Infantil" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES: 24/7",24/7 | Cine Infantil
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2554
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 | CINE Retro HD" tvg-logo="https://www.pngitem.com/pimgs/m/601-6018897_cinema-infantil-hd-png-download.png" group-title="CANALES: 24/7",24/7 | CINE Retro HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2555
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 | Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CANALES: 24/7",24/7 | Cine Latino
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2558
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 |  MY TIME MOVIE LATINO UHD" tvg-logo="https://www.kindpng.com/picc/m/8-80623_transparent-movies-logo-png-movies-logo-transparent-png.png" group-title="CANALES: 24/7",24/7 |  MY TIME MOVIE LATINO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2559
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 | THE BIG BANG THEORY" tvg-logo="https://es.wikipedia.org/wiki/Archivo:TBBT_logo.svg" group-title="CANALES: 24/7",24/7 | THE BIG BANG THEORY
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2563
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="UNIVERSAL REALITY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Universal_Reality_logo.png" group-title="PREMIUM UHD",UNIVERSAL REALITY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2694
-#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CINEMA UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png" group-title="PREMIUM UHD",UNIVERSAL CINEMA UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2696
-#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL CRIME UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="PREMIUM UHD",UNIVERSAL CRIME UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2697
-#EXTINF:-1 tvg-id="ext" tvg-name="UNIVERSAL PREMIER UHD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="PREMIUM UHD",UNIVERSAL PREMIER UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2698
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" group-title="PREMIUM UHD",STAR CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2695
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ATRESERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/494px-Atreseries.png" group-title="PREMIUM UHD",ATRESERIES UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2786
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="PREMIUM UHD",HBO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2790
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM UHD",HBO FAMILY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2792
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PREMIUM UHD",HBO PLUS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2793
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="PREMIUM UHD",HBO SIGNATURE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2794
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="PREMIUM UHD",HBO POP UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2795
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="PREMIUM UHD",HBO MUNDI UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2796
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="TNT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="PREMIUM UHD",TNT UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2797
-#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="TNT SERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="PREMIUM UHD",TNT SERIES UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2798
-#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="CARTOON NETWORK UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="PREMIUM UHD",CARTOON NETWORK UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2803
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="COMEDY CENTRAL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="PREMIUM UHD",COMEDY CENTRAL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2805
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PREMIUM UHD",HBO 2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2806
-#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="DISCOVERY CHANNEL UHD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="PREMIUM UHD",DISCOVERY CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2807
-#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="HGTV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="PREMIUM UHD",HGTV UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2808
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthHDSouth.us" tvg-name="DISCOVERY H&H UHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="PREMIUM UHD",DISCOVERY H&H UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2809
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="DISCOVERY ID UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="PREMIUM UHD",DISCOVERY ID UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2810
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="DISCOVERY KIDS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="PREMIUM UHD",DISCOVERY KIDS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2811
-#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="DISCOVERY SCIENCE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="PREMIUM UHD",DISCOVERY SCIENCE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2812
-#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="DISCOVERY TURBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM UHD",DISCOVERY TURBO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2813
-#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="35 | DISCOVERY WORLD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="PREMIUM UHD",35 | DISCOVERY WORLD ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2814
-#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="36 | DISNEY CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="PREMIUM UHD",36 | DISNEY CHANNEL 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2815
-#EXTINF:-1 tvg-id="DisneyXDWest.us" tvg-name="37 | DISNEY JR ®" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="PREMIUM UHD",37 | DISNEY JR ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2819
-#EXTINF:-1 tvg-id="51456" tvg-name="38 | DISNEY XD ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="PREMIUM UHD",38 | DISNEY XD ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2820
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="42 | FX ® MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="PREMIUM UHD",42 | FX ® MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2824
-#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="43 | HISTORY ®" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="PREMIUM UHD",43 | HISTORY ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2825
-#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="44 | PARAMOUNT MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="PREMIUM UHD",44 | PARAMOUNT MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2826
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="45 | PASIONES ®" tvg-logo="https://www.dafont.com/forum/attach/orig/1/8/183598.png" group-title="PREMIUM UHD",45 | PASIONES ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2827
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="46 | SONY ®" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="PREMIUM UHD",46 | SONY ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3007
-#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="47 | SPACE ®" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="PREMIUM UHD",47 | SPACE ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3008
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="48 | STUDIO UNIVERSAL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="PREMIUM UHD",48 | STUDIO UNIVERSAL ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3009
-#EXTINF:-1 tvg-id="51456" tvg-name="49 | SYFY ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1200px-SYFY.svg.png" group-title="PREMIUM UHD",49 | SYFY ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3010
-#EXTINF:-1 tvg-id="TLCMexico.mx" tvg-name="50 | TLC ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="PREMIUM UHD",50 | TLC ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3011
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="51 | UNIVERSAL CHANNEL ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="PREMIUM UHD",51 | UNIVERSAL CHANNEL ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3012
-#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="52 | WARNER ®" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="PREMIUM UHD",52 | WARNER ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3013
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="54 | HBO XTREME ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1024px-Max_Prime_2012_logo.svg.png" group-title="PREMIUM UHD",54 | HBO XTREME ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3015
-#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="55 | DISCOVERY THEATER ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="PREMIUM UHD",55 | DISCOVERY THEATER ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3016
-#EXTINF:-1 tvg-id="FXPanregional.us" tvg-name="56 | FX ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="PREMIUM UHD",56 | FX ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3017
-#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="57 | H2  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="PREMIUM UHD",57 | H2  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3018
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="58 | AMC ®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="PREMIUM UHD",58 | AMC ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3019
-#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="59 | A&E ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1200px-A%26E_Network_%28Australia%29_logo.svg.png" group-title="PREMIUM UHD",59 | A&E ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3020
-#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="60 | FILM&ARTS UHD®" tvg-logo="https://seeklogo.com/images/F/Film_TV-logo-B100488341-seeklogo.com.png" group-title="PREMIUM UHD",60 | FILM&ARTS UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3021
-#EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="61 | NICK 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="PREMIUM UHD",61 | NICK 2 ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3022
-#EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="62 | NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="PREMIUM UHD",62 | NICK ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3023
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="63 | TELEMUNDO INTERNACIONAL®" tvg-logo="https://www.briya.org/wp-content/uploads/2019/01/telemundo-logo.png" group-title="PREMIUM UHD",63 | TELEMUNDO INTERNACIONAL®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3024
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="65 | AZ CLICK ®" tvg-logo="https://www.ipuntotv.com/IMAGES/AZTV-click-logo.png" group-title="PREMIUM UHD",65 | AZ CLICK ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3026
-#EXTINF:-1 tvg-id="DHE.us" tvg-name="66| DHE ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png" group-title="PREMIUM UHD",66| DHE ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3028
-#EXTINF:-1 tvg-id="EHDSouth.us" tvg-name="67 | E ENTERTAIMENTS ®" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="PREMIUM UHD",67 | E ENTERTAIMENTS ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3029
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="69| MTV®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png" group-title="PREMIUM UHD",69| MTV®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3031
-#EXTINF:-1 tvg-id="StarChannelHDSouth.us" tvg-name="70 | STAR TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="PREMIUM UHD",70 | STAR TVE HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3032
-#EXTINF:-1 tvg-id="SundanceTVSpain.es" tvg-name="71 | SUNDANCE ®" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/sundancetv-vector-logo.png" group-title="PREMIUM UHD",71 | SUNDANCE ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3033
-#EXTINF:-1 tvg-id="ext" tvg-name="72 | CANAL U ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Logo_Canal_U_%28Uruguay%29.png" group-title="PREMIUM UHD",72 | CANAL U ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3034
-#EXTINF:-1 tvg-id="VH1USEast.us" tvg-name="73 | VH1 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="PREMIUM UHD",73 | VH1 ®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3035
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="84 | GOLDEN UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="PREMIUM UHD",84 | GOLDEN UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/133836
-#EXTINF:-1 tvg-id="ext" tvg-name="87 | STAR CLASSIC UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-classics_m.png" group-title="PREMIUM UHD",87 | STAR CLASSIC UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/133839
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINE",CINE: STAR CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3642
-#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="CINE: TNT SERIES MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",CINE: TNT SERIES MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3644
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="CINE: FX MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE",CINE: FX MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3645
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FX MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",CINE: FX MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3646
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE: GOLDEN PLUS MX SD" tvg-logo="https://telegratis.org/wp-content/uploads/2020/07/golden_plus.png" group-title="CINE",CINE: GOLDEN PLUS MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3648
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="CINE: PARAMOUNT CHANNEL MX SD" tvg-logo="https://assets.stickpng.com/images/58483b6584e35b574e745380.png" group-title="CINE",CINE: PARAMOUNT CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3667
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="CINE: STUDIO UNIVERSAL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE",CINE: STUDIO UNIVERSAL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3674
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE",CINE: WARNER CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3694
-#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="CINE: AXN UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="CINE",CINE: AXN UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150070
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="CINE: UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE",CINE: UNIVERSAL REALITY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150071
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL PREMIERE (MX) UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150072
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: UNIVERSAL TV UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL TV UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150073
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="CINE: UNIVERSAL CINEMA UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL CINEMA UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150074
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="CINE: UNIVERSAL CRIME UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL CRIME UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150075
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="CINE: UNIVERSAL COMEDY UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL COMEDY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150076
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="CINE: HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE",CINE: HBO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150077
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="CINE: HBO 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE",CINE: HBO 2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150078
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="CINE: HBO FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",CINE: HBO FAMILY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150079
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="CINE: HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",CINE: HBO PLUS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150080
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="CINE: HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE",CINE: HBO SIGNATURE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150081
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="CINE: HBO MUNDI UHD" tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png" group-title="CINE",CINE: HBO MUNDI UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150082
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="CINE: HBO POP UHD" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title="CINE",CINE: HBO POP UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150083
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="CINE: HBO XTREME UHD" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="CINE",CINE: HBO XTREME UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150084
-#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="CINE: STARZ ENCORE FAMILY UHD" tvg-logo="" group-title="CINE",CINE: STARZ ENCORE FAMILY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150085
-#EXTINF:-1 tvg-id="StarLifePanregional.us" tvg-name="CINE: STARZ ENCORE WEST UHD" tvg-logo="" group-title="CINE",CINE: STARZ ENCORE WEST UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150086
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CINE",CINE: STAR CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150087
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL (MX) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CINE",CINE: STAR CHANNEL (MX) UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150088
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150090
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150091
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINE: CINECANAL UHD" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE",CINE: CINECANAL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150092
-#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="CINE: CINECANAL MX UHD" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE",CINE: CINECANAL MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150093
-#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINE: CINEMAX MX UHD" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-cinemax-a-cinemax-2-v-nov-podob.png" group-title="CINE",CINE: CINEMAX MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150094
-#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINE: CINEMAX UHD" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-cinemax-a-cinemax-2-v-nov-podob.png" group-title="CINE",CINE: CINEMAX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150095
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: CINEMAX ACTION UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="CINE",CINE: CINEMAX ACTION UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150096
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="CINE: DE PELICULA  UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png" group-title="CINE",CINE: DE PELICULA  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150097
-#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="CINE: FILM&ARTS UHD" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/08/Logo-Film-Arts-1.png" group-title="CINE",CINE: FILM&ARTS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150098
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="CINE: GOLDEN UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png" group-title="CINE",CINE: GOLDEN UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150099
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="CINE: GOLDEN EDGE UHD" tvg-logo="https://simple.wikipedia.org/wiki/Golden_Edge#/media/File:Golden_Edge_Logo_2020.png" group-title="CINE",CINE: GOLDEN EDGE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150100
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE: GOLDEN PLUS UHD" tvg-logo="https://es.wikipedia.org/wiki/Golden_(canal_de_televisi%C3%B3n)#/media/Archivo:Canal_Golden_logo.svg" group-title="CINE",CINE: GOLDEN PLUS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150101
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="CINE: GOLDEN PREMIER UHD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",CINE: GOLDEN PREMIER UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150102
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150103
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150104
-#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="CINE: SYFY MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="CINE",CINE: SYFY MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150105
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL UHD" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="CINE",CINE: WARNER CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150106
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL MX UHD" tvg-logo="" group-title="CINE",CINE: WARNER CHANNEL MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150107
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150108
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE MX UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150109
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE MX2 UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE MX2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150110
-#EXTINF:-1 tvg-id="51456" tvg-name="CINE: PARAMOUNT NETWORK MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png" group-title="CINE",CINE: PARAMOUNT NETWORK MX HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150111
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="CINE: SONY  UHD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/09/sony-4k-hdr-ultra-hd-vector-logo.png" group-title="CINE",CINE: SONY  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150112
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="CINE: SONY MX UHD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/09/sony-4k-hdr-ultra-hd-vector-logo.png" group-title="CINE",CINE: SONY MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150113
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="CINE: TNT UHD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png" group-title="CINE",CINE: TNT UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150114
-#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="CINE: TNT MX UHD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png" group-title="CINE",CINE: TNT MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150115
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="CINE: TNT SERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CINE",CINE: TNT SERIES UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150116
-#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="CINE: TNT SERIES  MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CINE",CINE: TNT SERIES  MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150117
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE: CINEAR UHD" tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="CINE",CINE: CINEAR UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150118
-#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="CINE: TCM UHD" tvg-logo="https://en.wikipedia.org/wiki/Turner_Classic_Movies_(Asian_TV_channel)#/media/File:TurnerClassicMoviesAsia.jpg" group-title="CINE",CINE: TCM UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150119
-#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="CINE: TCM MX UHD" tvg-logo="https://en.wikipedia.org/wiki/Turner_Classic_Movies_(Asian_TV_channel)#/media/File:TurnerClassicMoviesAsia.jpg" group-title="CINE",CINE: TCM MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150120
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FXM  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE",CINE: FXM  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150121
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FXM MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE",CINE: FXM MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150122
-#EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="CINE: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CINE",CINE: COMEDY CENTRAL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150323
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="CINE: COMEDY CENTRAL MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CINE",CINE: COMEDY CENTRAL MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150324
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="CINE: DISTRITO COMEDIA MX" tvg-logo="" group-title="CINE",CINE: DISTRITO COMEDIA MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150325
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: CINE DINAMITA" tvg-logo="" group-title="CINE",CINE: CINE DINAMITA
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155201
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE: CINE LATINO" tvg-logo="" group-title="CINE",CINE: CINE LATINO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155202
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="CINE: UNIVERSAL PREMIER" tvg-logo="" group-title="CINE",CINE: UNIVERSAL PREMIER
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155203
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CULTURALES",ANIMAL PLANET HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2800
-#EXTINF:-1 tvg-id="NationalGeographicHDSouth.us" tvg-name="NATGEO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CULTURALES",NATGEO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2799
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="H2 HISTORY HD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:History2_logo_(2022).svg" group-title="CULTURALES",H2 HISTORY HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2791
-#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="60 | NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="CULTURALES",60 | NATGEO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3659
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="27 | EL GOURMET MX UHD®" tvg-logo="https://www.kindpng.com/picc/m/458-4585723_canal-gourmet-hd-png-download.png" group-title="CULTURALES",27 | EL GOURMET MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155204
-#EXTINF:-1 tvg-id="ext" tvg-name="28 | E! ENTERTAINMENT UHD" tvg-logo="" group-title="CULTURALES",28 | E! ENTERTAINMENT UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155962
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="CARTOONITO UHD" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Cartoonito_-_Logo_2021.svg" group-title="INFANTILES",CARTOONITO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/2802
-#EXTINF:-1 tvg-id="NatGeoKidsPanregional.us" tvg-name="61 | NAT GEO KIDS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",61 | NAT GEO KIDS 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3660
-#EXTINF:-1 tvg-id="NickJrPanregional.us" tvg-name="67 | NICK MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTILES",67 | NICK MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3662
-#EXTINF:-1 tvg-id="NicktoonsLatinAmerica.us" tvg-name="66 | NICKTOONS MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTILES",66 | NICKTOONS MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3665
-#EXTINF:-1 tvg-id="ext" tvg-name="25 | NICKELODEON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png" group-title="INFANTILES",25 | NICKELODEON FHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/161034
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES: AMERICA SUR",SUR | STAR CHANNEL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4781
-#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="SUR | LIFETIME" tvg-logo="https://static.wixstatic.com/media/b2d8de_882bb20732ef4b5791acf83a49cfda36~mv2.png/v1/fill/w_476,h_144,al_c,q_95,enc_auto/Logo_Lifetime_2020.png" group-title="CANALES: AMERICA SUR",LIFETIME
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4782
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="CANALES: AMERICA SUR",SUR | DISTRITO COMEDIA
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4783
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://www.jing.fm/clipimg/full/128-1288451_star-movies-logo.png" group-title="CANALES: AMERICA SUR",SUR | STAR CHANNEL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4784
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANALES: AMERICA SUR",SUR | TNT SERIES
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4785
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | FX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4788
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="SUR | FX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | FX MOVIES
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4789
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | DISCOVERY INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES: AMERICA SUR",SUR | DISCOVERY INVESTIGATION
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4790
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="SUR | DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | DISCOVERY KIDS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4791
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | DISCOVERY TURBO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4792
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="CANALES: AMERICA SUR",SUR | DISNEY XD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4793
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | HBO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4796
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="SUR | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANALES: AMERICA SUR",SUR | HBO 2
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4797
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="SUR | HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES: AMERICA SUR",SUR | HBO FAMILY
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4798
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="SUR | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANALES: AMERICA SUR",SUR | HBO PLUS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4799
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="SUR | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANALES: AMERICA SUR",SUR | HBO MUNDI
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4800
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SUR | SONY" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="CANALES: AMERICA SUR",SUR | SONY
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4801
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="SUR | SPACE" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="CANALES: AMERICA SUR",SUR | SPACE
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4802
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="CANALES: AMERICA SUR",SUR | TBS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4803
-#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="SUR | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANALES: AMERICA SUR",SUR | TCM
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4804
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="SUR | CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CANALES: AMERICA SUR",SUR | CINECANAL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4805
-#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="SUR | CINEMA DINAMITA" tvg-logo="https://i.imgur.com/8fdvFWP.png" group-title="CANALES: AMERICA SUR",SUR | CINEMA DINAMITA
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4806
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="SUR | CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANALES: AMERICA SUR",SUR | CINEMAX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4807
-#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="SUR | HISTORY CHANNEL" tvg-logo="https://assets.stickpng.com/images/585ac9444f6ae202fedf2947.png" group-title="CANALES: AMERICA SUR",SUR | HISTORY CHANNEL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4808
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="SUR | DISCOVERY HOME AND HEALTH" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="CANALES: AMERICA SUR",SUR | DISCOVERY HOME AND HEALTH
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4809
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="SUR | DISCOVERY CHANNEL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANALES: AMERICA SUR",SUR | DISCOVERY CHANNEL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4819
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="SUR | DISNEY CHANNEL_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES: AMERICA SUR",SUR | DISNEY CHANNEL_
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4820
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="SUR | CNN Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CANALES: AMERICA SUR",SUR | CNN Espanol
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4853
-#EXTINF:-1 tvg-id="ext" tvg-name="SUR | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | MTV
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4856
-#EXTINF:-1 tvg-id="NatGeoKidsPanregional.us" tvg-name="SUR | NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="CANALES: AMERICA SUR",SUR | NAT GEO KIDS
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4857
-#EXTINF:-1 tvg-id="NickJrSouth.us" tvg-name="SUR | NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="CANALES: AMERICA SUR",SUR | NICK JR
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4858
-#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="SUR | NICKELODEON" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="CANALES: AMERICA SUR",SUR | NICKELODEON
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/4859
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="30 | DW NOTICIAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="CANALES: AMERICA SUR",30 | DW NOTICIAS MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150283
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |HBO (LA)" tvg-logo="" group-title="WORLD",WORLD |HBO (LA)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6577
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |HBO 2 (LA)" tvg-logo="" group-title="WORLD",WORLD |HBO 2 (LA)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6588
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Cartoon Network [SD]" tvg-logo="" group-title="WORLD",WORLD |﻿Cartoon Network [SD]
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6816
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Boomerang [SD]" tvg-logo="" group-title="WORLD",WORLD |﻿Boomerang [SD]
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6817
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="WORLD |﻿Baby TV [SD]" tvg-logo="" group-title="WORLD",WORLD |﻿Baby TV [SD]
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6818
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Star Family HD" tvg-logo="" group-title="WORLD",WORLD |﻿Star Family HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6859
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Star Cinema HD" tvg-logo="" group-title="WORLD",WORLD |﻿Star Cinema HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6860
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Nickelodeon HD" tvg-logo="" group-title="WORLD",WORLD |﻿Nickelodeon HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6861
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Formula (New!)" tvg-logo="" group-title="WORLD",WORLD |﻿Formula (New!)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/6862
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Canal 5" tvg-logo="" group-title="WORLD",WORLD |﻿Canal 5
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/7064
-#EXTINF:-1 tvg-id="ext" tvg-name="WORLD |﻿Canal 3" tvg-logo="" group-title="WORLD",WORLD |﻿Canal 3
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/7065
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1280px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="CINE",CINE: STAR CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3642
-#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="CINE: TNT SERIES MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",CINE: TNT SERIES MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3644
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="CINE: FX MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CINE",CINE: FX MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3645
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FX MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png" group-title="CINE",CINE: FX MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3646
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE: GOLDEN PLUS MX SD" tvg-logo="https://telegratis.org/wp-content/uploads/2020/07/golden_plus.png" group-title="CINE",CINE: GOLDEN PLUS MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3648
-#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="CINE: PARAMOUNT CHANNEL MX SD" tvg-logo="https://assets.stickpng.com/images/58483b6584e35b574e745380.png" group-title="CINE",CINE: PARAMOUNT CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3667
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="CINE: STUDIO UNIVERSAL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE",CINE: STUDIO UNIVERSAL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3674
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="CINE",CINE: WARNER CHANNEL MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3694
-#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="CINE: AXN UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/AXN_HD_Logo_2015.png/1200px-AXN_HD_Logo_2015.png" group-title="CINE",CINE: AXN UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150070
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="CINE: UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE",CINE: UNIVERSAL REALITY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150071
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL PREMIERE (MX) UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150072
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: UNIVERSAL TV UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL TV UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150073
-#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="CINE: UNIVERSAL CINEMA UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL CINEMA UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150074
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="CINE: UNIVERSAL CRIME UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL CRIME UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150075
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="CINE: UNIVERSAL COMEDY UHD" tvg-logo="" group-title="CINE",CINE: UNIVERSAL COMEDY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150076
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="CINE: HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE",CINE: HBO UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150077
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="CINE: HBO 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE",CINE: HBO 2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150078
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="CINE: HBO FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE",CINE: HBO FAMILY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150079
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="CINE: HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE",CINE: HBO PLUS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150080
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="CINE: HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE",CINE: HBO SIGNATURE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150081
-#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="CINE: HBO MUNDI UHD" tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png" group-title="CINE",CINE: HBO MUNDI UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150082
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="CINE: HBO POP UHD" tvg-logo="https://iconape.com/wp-content/files/bc/122593/png/HBO_Pop.png" group-title="CINE",CINE: HBO POP UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150083
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="CINE: HBO XTREME UHD" tvg-logo="https://ayuda.tigo.com.hn/hc/article_attachments/360056012553/0000_all_l_hboall-HBO-XTREME-Black.png" group-title="CINE",CINE: HBO XTREME UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150084
-#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="CINE: STARZ ENCORE FAMILY UHD" tvg-logo="" group-title="CINE",CINE: STARZ ENCORE FAMILY UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150085
-#EXTINF:-1 tvg-id="StarLifePanregional.us" tvg-name="CINE: STARZ ENCORE WEST UHD" tvg-logo="" group-title="CINE",CINE: STARZ ENCORE WEST UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150086
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CINE",CINE: STAR CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150087
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="CINE: STAR CHANNEL (MX) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CINE",CINE: STAR CHANNEL (MX) UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150088
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150090
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150091
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="CINE: CINECANAL UHD" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE",CINE: CINECANAL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150092
-#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="CINE: CINECANAL MX UHD" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE",CINE: CINECANAL MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150093
-#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINE: CINEMAX MX UHD" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-cinemax-a-cinemax-2-v-nov-podob.png" group-title="CINE",CINE: CINEMAX MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150094
-#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINE: CINEMAX UHD" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873753_logo-cinemax-a-cinemax-2-v-nov-podob.png" group-title="CINE",CINE: CINEMAX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150095
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: CINEMAX ACTION UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png" group-title="CINE",CINE: CINEMAX ACTION UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150096
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="CINE: DE PELICULA  UHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula-hd_m.png" group-title="CINE",CINE: DE PELICULA  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150097
-#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="CINE: FILM&ARTS UHD" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/08/Logo-Film-Arts-1.png" group-title="CINE",CINE: FILM&ARTS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150098
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="CINE: GOLDEN UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png" group-title="CINE",CINE: GOLDEN UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150099
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="CINE: GOLDEN EDGE UHD" tvg-logo="https://simple.wikipedia.org/wiki/Golden_Edge#/media/File:Golden_Edge_Logo_2020.png" group-title="CINE",CINE: GOLDEN EDGE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150100
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE: GOLDEN PLUS UHD" tvg-logo="https://es.wikipedia.org/wiki/Golden_(canal_de_televisi%C3%B3n)#/media/Archivo:Canal_Golden_logo.svg" group-title="CINE",CINE: GOLDEN PLUS UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150101
-#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="CINE: GOLDEN PREMIER UHD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE",CINE: GOLDEN PREMIER UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150102
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150103
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="CINE: AMC MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CINE",CINE: AMC MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150104
-#EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="CINE: SYFY MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Syfy-HD-Logo.svg/1280px-Syfy-HD-Logo.svg.png" group-title="CINE",CINE: SYFY MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150105
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL UHD" tvg-logo="https://assets.stickpng.com/images/58483b6d84e35b574e745381.png" group-title="CINE",CINE: WARNER CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150106
-#EXTINF:-1 tvg-id="WarnerChannelMexico.mx" tvg-name="CINE: WARNER CHANNEL MX UHD" tvg-logo="" group-title="CINE",CINE: WARNER CHANNEL MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150107
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150108
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE MX UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150109
-#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="CINE: SPACE MX2 UHD" tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CINE",CINE: SPACE MX2 UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150110
-#EXTINF:-1 tvg-id="51456" tvg-name="CINE: PARAMOUNT NETWORK MX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Paramount_Paramount_Network.png" group-title="CINE",CINE: PARAMOUNT NETWORK MX HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150111
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="CINE: SONY  UHD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/09/sony-4k-hdr-ultra-hd-vector-logo.png" group-title="CINE",CINE: SONY  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150112
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="CINE: SONY MX UHD" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/09/sony-4k-hdr-ultra-hd-vector-logo.png" group-title="CINE",CINE: SONY MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150113
-#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="CINE: TNT UHD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png" group-title="CINE",CINE: TNT UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150114
-#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="CINE: TNT MX UHD" tvg-logo="https://logoeps.com/wp-content/uploads/2013/05/tnt-eps-vector-logo.png" group-title="CINE",CINE: TNT MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150115
-#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="CINE: TNT SERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CINE",CINE: TNT SERIES UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150116
-#EXTINF:-1 tvg-id="TNTSeriesMexico.mx" tvg-name="CINE: TNT SERIES  MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CINE",CINE: TNT SERIES  MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150117
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE: CINEAR UHD" tvg-logo="https://www.festivaldebiarritz.com/wp-content/uploads/2019/08/logo-cinear-alt-sin-bajada-700x175.png" group-title="CINE",CINE: CINEAR UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150118
-#EXTINF:-1 tvg-id="TCMSouth.us" tvg-name="CINE: TCM UHD" tvg-logo="https://en.wikipedia.org/wiki/Turner_Classic_Movies_(Asian_TV_channel)#/media/File:TurnerClassicMoviesAsia.jpg" group-title="CINE",CINE: TCM UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150119
-#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="CINE: TCM MX UHD" tvg-logo="https://en.wikipedia.org/wiki/Turner_Classic_Movies_(Asian_TV_channel)#/media/File:TurnerClassicMoviesAsia.jpg" group-title="CINE",CINE: TCM MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150120
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FXM  UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE",CINE: FXM  UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150121
-#EXTINF:-1 tvg-id="FXMWest.us" tvg-name="CINE: FXM MX UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE",CINE: FXM MX UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150122
-#EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="CINE: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CINE",CINE: COMEDY CENTRAL
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150323
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="CINE: COMEDY CENTRAL MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CINE",CINE: COMEDY CENTRAL MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150324
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="CINE: DISTRITO COMEDIA MX" tvg-logo="" group-title="CINE",CINE: DISTRITO COMEDIA MX
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150325
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE: CINE DINAMITA" tvg-logo="" group-title="CINE",CINE: CINE DINAMITA
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155201
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE: CINE LATINO" tvg-logo="" group-title="CINE",CINE: CINE LATINO
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155202
-#EXTINF:-1 tvg-id="UniversalPremiereEast.us" tvg-name="CINE: UNIVERSAL PREMIER" tvg-logo="" group-title="CINE",CINE: UNIVERSAL PREMIER
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/155203
-#EXTINF:-1 tvg-id="51456" tvg-name="19 | IP Noticias UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rainews24.png" group-title="NOTICIAS",19 | IP Noticias UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150238
-#EXTINF:-1 tvg-id="ext" tvg-name="20 | AUSTRALIAN NEWS ABC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Australian_News_Channel_logo.png" group-title="NOTICIAS",20 | AUSTRALIAN NEWS ABC UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150239
-#EXTINF:-1 tvg-id="51456" tvg-name="21 | NEWSMAX CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="NOTICIAS",21 | NEWSMAX CHANNEL UHD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150240
-#EXTINF:-1 tvg-id="Foro.mx" tvg-name="21 | FOROTV MEX UHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",21 | FOROTV MEX UHD 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150241
-#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png" group-title="NOTICIAS",MILENIO TV HD
-https://ythls.onrender.com/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
-
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="MX || A + 7.2 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/1200px-Logo_a%2B_%28canal%29.svg.png" group-title="MEXICO",MX || A + 7.2 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3668
-#EXTINF:-1 tvg-id="APlus.mx" tvg-name="MX || A+ 7.2 UHD®" tvg-logo="https://tvazteca.brightspotcdn.com/c1/59/8bfec2044396b3519784ef411d21/logo-pag-bn..png" group-title="MEXICO",MX || A+ 7.2 UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3697
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN 40 HD®" tvg-logo="https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="MEXICO",MX || ADN 40 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129046
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN 40 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png" group-title="MEXICO",MX || ADN 40 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130017
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || ADN40 UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/359-3591396_thumb-image-adn-40-logo-png-transparent-png.png" group-title="MEXICO",MX || ADN40 UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3699
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || AFIZZIONADOS HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="MEXICO",MX || AFIZZIONADOS HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/148890
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || TELESISTEMA Canal 9 HD®" tvg-logo="https://www.alcancetv.com.mx/wp-content/uploads/2020/07/cropped-logo2.fw_.png" group-title="MEXICO",MX || TELESISTEMA Canal 9 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/140816
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Alcarria TV HD®" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="MEXICO",MX || Alcarria TV HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130018
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || AMX Noticias HD®" tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="MEXICO",MX || AMX Noticias HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/148857
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="MX || AYM SPORTS HD®" tvg-logo="https://pescaendirecto.com/wp-content/uploads/easy_logo_slider/498508Logo-AYM.png" group-title="MEXICO",MX || AYM SPORTS HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3670
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="MX || Aym Sports UHD® " tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/aym_sports-600x540-425346095.png" group-title="MEXICO",MX || Aym Sports UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3705
-#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="MX || Az Cinema HD®" tvg-logo="" group-title="MEXICO",MX || Az Cinema HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129028
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="MX || Az Clic HD®" tvg-logo="" group-title="MEXICO",MX || Az Clic HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129029
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || Az Corazón HD®" tvg-logo="" group-title="MEXICO",MX || Az Corazón HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129030
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || Az Corazón UHD® " tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MEXICO",MX || Az Corazón UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3707
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || Az Mundo HD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",MX || Az Mundo HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129031
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || Az Mundo UHD® " tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="MEXICO",MX || Az Mundo UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3708
-#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="MX || Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",MX || Azteca 7 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129033
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="MX || AZTECA CLICK UHD® " tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2016/11/09/ALFOMBRA-E13-EU101116-2_Drupal%20Main%20Image.var_1478751216.jpg" group-title="MEXICO",MX || AZTECA CLICK UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/145506
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX || AZTECA CORAZÓN UHD®" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MEXICO",MX || AZTECA CORAZÓN UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/145508
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="MX || AZTECA MUNDO UHD®" tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="MEXICO",MX || AZTECA MUNDO UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/145512
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || Azteca Uno HD®" tvg-logo="https://w7.pngwing.com/pngs/322/373/png-transparent-tv-azteca-television-azteca-uno-azteca-america-xhimt-tdt-others-television-text-logo.png" group-title="MEXICO",MX || Azteca Uno HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129032
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || Azteca Uno UHD®" tvg-logo="https://www.seekpng.com/png/full/229-2293870_azteca-trece-coming-azteca-uno-logo-azteca-1.png" group-title="MEXICO",MX || Azteca Uno UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3801
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MX || Bandamax UHD®" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MEXICO",MX || Bandamax UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129047
-#EXTINF:-1 tvg-id="BitMe.mx" tvg-name="MX || BITME MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="MEXICO",MX || BITME MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/151648
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || TVP Obregón - HD®" tvg-logo="https://www.nicepng.com/png/detail/355-3556245_cadena-h-logo-png.png" group-title="MEXICO",MX || TVP Obregón - HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129034
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal 10 Cancún UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MEXICO",MX || Canal 10 Cancún UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130020
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="MX || CANAL 11 MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MEXICO",MX || CANAL 11 MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3723
-#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" tvg-name="MX || LOBO TV UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="MEXICO",MX || LOBO TV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/131726
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || CANAL 26 UHD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online.png" group-title="MEXICO",MX || CANAL 26 UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129035
-#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="MX || Canal 4 HD®" tvg-logo="https://seeklogo.com/images/C/Canal_4-logo-854F13B1CF-seeklogo.com.png" group-title="MEXICO",MX || Canal 4 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129036
-#EXTINF:-1 tvg-id="XHGTDT.mx" tvg-name="MX || CANAL 4 UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="MEXICO",MX || CANAL 4 UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3718
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || CANAL 44 CHIHUAHUA UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MEXICO",MX || CANAL 44 CHIHUAHUA UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130023
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX || Canal 5 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",MX || Canal 5 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129037
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="MX || CANAL 5 UHD®" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/XHGC-TV_2014_HD-253x199-151761682.png" group-title="MEXICO",MX || CANAL 5 UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3719
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal 8 HD®" tvg-logo="https://img2.freepng.es/20180617/qca/kisspng-canal-8-television-channel-tl-loisirs-live-tel-telenica-canal-8-5b26d0290d70b6.0796160815292703130551.jpg" group-title="MEXICO",MX || Canal 8 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129038
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || CANAL 8 UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="MEXICO",MX || CANAL 8 UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3720
-#EXTINF:-1 tvg-id="Nueve.mx" tvg-name="MX || CANAL 9 Telesistema SD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telesistema_Mexicano.png" group-title="MEXICO",MX || CANAL 9 Telesistema SD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/149448
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || CANAL CATORCE UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Canal14Mexico.jpg" group-title="MEXICO",MX || CANAL CATORCE UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/140822
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal DIEZ Cancún HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="MEXICO",MX || Canal DIEZ Cancún HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130019
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="MX || Canal Judicial HD®" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.Canal_Judicial_HD_20165S.png.08a4498d85904920faf967999e3a55f6.png" group-title="MEXICO",MX || Canal Judicial HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129039
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="MX || CANAL JUDICIAL UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_Canal_Judicial.png" group-title="MEXICO",MX || CANAL JUDICIAL UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3722
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="MX || Canal Once HD®" tvg-logo="https://canalonce.mx/images/logo-once-horizontal-blanco118-B-118x38.png" group-title="MEXICO",MX || Canal Once HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129040
-#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="MX || Canal U (Unicable) HD®" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g_kPs-F3kKqQip4m_M4CqlvTDUAI6zDpRsRFKGzNvcjx3tXEWlZRqmcLC7D84dRKsx8&usqp=CAU" group-title="MEXICO",MX || Canal U (Unicable) HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129045
-#EXTINF:-1 tvg-id="CineEstelar.us" tvg-name="MX || CINE ESTELAR CE HD®" tvg-logo="https://www.tvrosat.com/logos/estelar[1].jpg" group-title="MEXICO",MX || CINE ESTELAR CE HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/153565
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || CONECTA TV UHD®" tvg-logo="https://www.conectatv.com.mx/gallery/logo%20conecta%20tv%20(transp)%20largo-ts1603060731.png" group-title="MEXICO",MX || CONECTA TV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130024
-#EXTINF:-1 tvg-id="CuriosityChannel.us" tvg-name="MX || CURIOSITY HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png" group-title="MEXICO",MX || CURIOSITY HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146598
-#EXTINF:-1 tvg-id="51456" tvg-name="MX || CURIOSITY UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png" group-title="MEXICO",MX || CURIOSITY UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146597
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal del Congreso 45 TV SD®" tvg-logo="https://img2.freepng.es/20180331/rie/kisspng-drawing-garden-early-childhood-education-school-te-dia-de-la-mujer-5abfd776123951.6025993415225219740747.jpg" group-title="MEXICO",MX || Canal del Congreso 45 TV SD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146599
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || EL HERALDO Noticias HD®" tvg-logo="https://i1.wp.com/digitalpolicylaw.com/wp-content/uploads/2020/02/dplnews_heraldo-tv_dn040220.jpg" group-title="MEXICO",MX || EL HERALDO Noticias HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/148883
-#EXTINF:-1 tvg-id="51456" tvg-name="MX || ESTRELLA GAMES UHD®" tvg-logo="https://w7.pngwing.com/pngs/284/591/png-transparent-estrella-tv-television-network-wgen-tv-ktnc-tv-j-balvin-television-text-public-relations.png" group-title="MEXICO",MX || ESTRELLA GAMES UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/154742
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="MX || ESTRELLA NEWS UHD®" tvg-logo="https://estrellatv.com/img/shows/noticias-estrellatv/logo.png" group-title="MEXICO",MX || ESTRELLA NEWS UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/154743
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="MX || ESTRELLATV UHD®" tvg-logo="https://www.pngitem.com/pimgs/m/146-1469268_estrella-tv-canal-8-hd-png-download.png" group-title="MEXICO",MX || ESTRELLATV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/154741
-#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="MX || EWTN HD®" tvg-logo="https://cdn.mitvstatic.com/channels/sv_ewtn_m.png" group-title="MEXICO",MX || EWTN HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130021
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="MX || EXCELSIOR TV UHD®" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Excelsior_TV_HD.png" group-title="MEXICO",MX || EXCELSIOR TV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/153574
-#EXTINF:-1 tvg-id="Foro.mx" tvg-name="MX || FORO TV MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",MX || FORO TV MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3748
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || FUEL TV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="MEXICO",MX || FUEL TV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146600
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || FUELTV HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="MEXICO",MX || FUELTV HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146601
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="MX || GOLDEN EDGE HD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="MEXICO",MX || GOLDEN EDGE HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3647
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="MX || GOLDEN EDGE MX UHD®" tvg-logo="https://i.pinimg.com/originals/f3/1a/5a/f31a5a2c1dea7ab7ad9933feedc82d22.png" group-title="MEXICO",MX || GOLDEN EDGE MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3762
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="MX || GOLDEN MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="MEXICO",MX || GOLDEN MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3761
-#EXTINF:-1 tvg-id="AMCMexico.mx" tvg-name="MX || IMAGEN TV MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1280px-HD-TV_Logo.svg.png" group-title="MEXICO",MX || IMAGEN TV MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3767
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="MX || Ingenio TV HD®" tvg-logo="https://www.tvcuatro.com/images/producciones/phpo3mmOC.png" group-title="MEXICO",MX || Ingenio TV HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3654
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="MEXICO",MX || Las Estrellas HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129048
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas UHD® " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",MX || Las Estrellas UHD® 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3607
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Mexico LOBO TV HD®" tvg-logo="https://pbs.twimg.com/profile_images/1323320211567763462/zhDx0Q4G_400x400.jpg" group-title="MEXICO",MX || Mexico LOBO TV HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/154917
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MX || MEXIQUENSE MX HD®" tvg-logo="https://rytvmx.s3.amazonaws.com/wpmedia/2020/07/14141848/logoNew.png" group-title="MEXICO",MX || MEXIQUENSE MX HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3657
-#EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="MX || MEXIQUENSE UHD®" tvg-logo="https://cat.com.mx/wp-content/uploads/2018/02/2015_11_19_13_37_12_mexiquense.png" group-title="MEXICO",MX || MEXIQUENSE UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3772
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MX || MilenioTV UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="MEXICO",MX || MilenioTV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130025
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Multimedios Laguna HD®" tvg-logo="https://asociacionale.org.mx/wp-content/uploads/2016/06/telediariodemultimedioslaguna-2.png" group-title="MEXICO",MX || Multimedios Laguna HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130027
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MX || MULTIMEDIOS PLUS MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",MX || MULTIMEDIOS PLUS MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129042
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="MX || MULTIMEDIOS UHD®" tvg-logo="https://img2.pngio.com/grupo-multimedios-media-ownership-monitor-grupo-multimedios-png-310_222.png" group-title="MEXICO",MX || MULTIMEDIOS UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3775
-#EXTINF:-1 tvg-id="Panico.mx" tvg-name="MX || PANICO UHD®" tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png" group-title="MEXICO",MX || PANICO UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/146602
-#EXTINF:-1 tvg-id="I1.24519.schedulesdirect.org" tvg-name="MX || RTQ Queretaro HD®" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/Logo-RTQ-BLanco-1.png" group-title="MEXICO",MX || RTQ Queretaro HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130028
-#EXTINF:-1 tvg-id="RTAmerica.us" tvg-name="MX || RUSIA TODAY RT HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png" group-title="MEXICO",MX || RUSIA TODAY RT HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/150362
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX || TELEFORMULA MX UHD®" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="MEXICO",MX || TELEFORMULA MX UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3747
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="MX || TELEFORMULA HD®" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO",MX || TELEFORMULA HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130031
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || TeleMax UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="MEXICO",MX || TeleMax UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130033
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || TELEVISA MEXICALI HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/XHGTV.png" group-title="MEXICO",MX || TELEVISA MEXICALI HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/149214
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || Televisa Monterrey HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png" group-title="MEXICO",MX || Televisa Monterrey HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129044
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || Televisa Puebla HD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Puebla-en-vivo-Online.png" group-title="MEXICO",MX || Televisa Puebla HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/129043
-#EXTINF:-1 tvg-id="XEFBTDT.mx" tvg-name="MX || Televisa Puebla UHD®" tvg-logo="https://userscontent2.emaze.com/images/5a3fd702-28dd-40ac-9b4a-21206a7c2b64/635428638432009405_televisalogo.png" group-title="MEXICO",MX || Televisa Puebla UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3799
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || TLR MX HD®" tvg-logo="https://mk0thelastrefor84oum.kinstacdn.com/wp-content/uploads/2020/05/tlr-lm-bl-LAR.png" group-title="MEXICO",MX || TLR MX HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3679
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="MX || Nuevo León Canal 28 HD®" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-28-Chihuahua-en-vivo-Online.png" group-title="MEXICO",MX || Nuevo León Canal 28 HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/149449
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MX || UMTV UHD®" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/umtv.png" group-title="MEXICO",MX || UMTV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/152948
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-name="MX || UNIVISION NOTICIAS HD®" tvg-logo="https://seeklogo.com/images/U/univision-noticias-logo-10987FEBCB-seeklogo.com.png" group-title="MEXICO",MX || UNIVISION NOTICIAS HD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/153437
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX || UnoTV UHD®" tvg-logo="https://w1.pngwing.com/pngs/404/240/png-transparent-tv-logo-azteca-uno-tv-azteca-az-mundo-television-las-estrellas-text.png" group-title="MEXICO",MX || UnoTV UHD®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/130034
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || UNICABLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="MEXICO",MX || UNICABLE HD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/156072
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Televisa Piedras Negras (HD)®" tvg-logo="" group-title="MEXICO",MX || Televisa Piedras Negras (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160985
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Televisa Piedras Negras (HD)®" tvg-logo="" group-title="MEXICO",MX || Televisa Piedras Negras (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160987
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Televisa Veracruz (HD)®" tvg-logo="" group-title="MEXICO",MX || Televisa Veracruz (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160989
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Televisa Zacatecas (HD)®" tvg-logo="" group-title="MEXICO",MX || Televisa Zacatecas (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160990
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal 28 (HD)®" tvg-logo="" group-title="MEXICO",MX || Canal 28 (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160991
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Canal 12 XETW (FHD)®" tvg-logo="" group-title="MEXICO",MX || Canal 12 XETW (FHD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160992
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Presumiendo México (HD)®" tvg-logo="" group-title="MEXICO",MX || Presumiendo México (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160993
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || RTG (HD)®" tvg-logo="" group-title="MEXICO",MX || RTG (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160994
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Sistema Michoacano TV (FHD)®" tvg-logo="" group-title="MEXICO",MX || Sistema Michoacano TV (FHD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160995
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || TRC Televisión (Campeche) (FHD)®" tvg-logo="" group-title="MEXICO",MX || TRC Televisión (Campeche) (FHD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160996
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || SET Televisión Canal 26.2 (HD)®" tvg-logo="" group-title="MEXICO",MX || SET Televisión Canal 26.2 (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160997
-#EXTINF:-1 tvg-id="ext" tvg-name="MX || Nueve San Luís Potosí (HD)®" tvg-logo="" group-title="MEXICO",MX || Nueve San Luís Potosí (HD)®
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/160998
-#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="02 | AXN (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LOW CHANNEL",02 | AXN (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3840
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="03 | Boomerang (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LOW CHANNEL",03 | Boomerang (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3841
-#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="04 | Cartoon Network (Low)" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="LOW CHANNEL",04 | Cartoon Network (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3842
-#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="05 | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LOW CHANNEL",05 | Cinecanal
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3843
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="06 | Cinemax" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cinemax-1-logo-png-transparent.png" group-title="LOW CHANNEL",06 | Cinemax
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3844
-#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="07 | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="LOW CHANNEL",07 | Comedy Central
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3845
-#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="08 | Discovery Channel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="LOW CHANNEL",08 | Discovery Channel
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3846
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="09 | Discovery Home & Healt" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="LOW CHANNEL",09 | Discovery Home & Healt
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3847
-#EXTINF:-1 tvg-id="ext" tvg-name="10 | Discovery Turbo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="LOW CHANNEL",10 | Discovery Turbo (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3848
-#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="11 | Disney Junior (L)" tvg-logo="https://nuvera.net/wp-content/uploads/2018/01/DisneyJR-Logo-Black-300x169.png" group-title="LOW CHANNEL",11 | Disney Junior (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3849
-#EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="12 | Disney XD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="LOW CHANNEL",12 | Disney XD (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3850
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="16 | Distrito Comedia (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="LOW CHANNEL",16 | Distrito Comedia (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3854
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="17 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LOW CHANNEL",17 |  Star Channel (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3855
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="18 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="LOW CHANNEL",18 |  Star Channel (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3856
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="19 | Lifetime (L)" tvg-logo="https://static.wixstatic.com/media/b2d8de_882bb20732ef4b5791acf83a49cfda36~mv2.png/v1/fill/w_476,h_144,al_c,q_95,enc_auto/Logo_Lifetime_2020.png" group-title="LOW CHANNEL",enc_auto/Logo_Lifetime_2020.png group-title=LOW CHANNEL,19 | Lifetime (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3857
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="20 |  Star Cinema (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",20 |  Star Cinema (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3858
-#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="21 | Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",21 | Star Channel (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3859
-#EXTINF:-1 tvg-id="ext" tvg-name="22 | TNT Series (Low)" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="LOW CHANNEL",22 | TNT Series (Low)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3860
-#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="26 |  FX (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="LOW CHANNEL",26 |  FX (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3864
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="27 |  H2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LOW CHANNEL",27 |  H2 (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3865
-#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="28 |  HBO (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1200px-HBO_Latino_Logo.svg.png" group-title="LOW CHANNEL",28 |  HBO (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3866
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="29 |  HBO 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LOW CHANNEL",29 |  HBO 2 (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3867
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="30 |  HBO Family (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LOW CHANNEL",30 |  HBO Family (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3868
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="31 |  Las Estrellas (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="LOW CHANNEL",31 |  Las Estrellas (L)
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3869
-#EXTINF:-1 tvg-id="ext" tvg-name="01 |  MC 90's" tvg-logo="https://s3.amazonaws.com/htw/dt-contest-entries/23717/canada-media-music-website-entertainment-logo-design.png" group-title="MUSICA",01 |  MC 90's
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3173
-#EXTINF:-1 tvg-id="ext" tvg-name="02 | VEVO 4K Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Greatest_Hits_TV.png" group-title="MUSICA",02 | VEVO 4K Hits
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3174
-#EXTINF:-1 tvg-id="ext" tvg-name="03 |  VEVO 70's Hits" tvg-logo="https://i.ibb.co/mDnN98M/vevo70.png" group-title="MUSICA",03 |  VEVO 70's Hits
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3175
-#EXTINF:-1 tvg-id="ext" tvg-name="04 |  VEVO 80's Hits" tvg-logo="https://i.ibb.co/sbL0fQb/800x800.png" group-title="MUSICA",04 |  VEVO 80's Hits
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3176
-#EXTINF:-1 tvg-id="ext" tvg-name="05 | VEVO 90's Hits" tvg-logo="https://i.ibb.co/9tqdBZ8/vevo90.png" group-title="MUSICA",05 | VEVO 90's Hits
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3177
-#EXTINF:-1 tvg-id="ext" tvg-name="06 |  VEVO Country Hits 2K" tvg-logo="https://i.ibb.co/hfLmPvs/country.png" group-title="MUSICA",06 |  VEVO Country Hits 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3178
-#EXTINF:-1 tvg-id="ext" tvg-name="07 |  VEVO R&B Hits 2K" tvg-logo="https://i.ibb.co/k5T1CGd/rYb.png" group-title="MUSICA",07 |  VEVO R&B Hits 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3179
-#EXTINF:-1 tvg-id="ext" tvg-name="08 | VEVO ONLY Hits 2K" tvg-logo="https://i.ibb.co/YPHsgBw/2k.png" group-title="MUSICA",08 | VEVO ONLY Hits 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3180
-#EXTINF:-1 tvg-id="ext" tvg-name="09 | VEVO Hip Hop Hits " tvg-logo="https://i.ibb.co/5BSr894/hiphopV.png" group-title="MUSICA",09 | VEVO Hip Hop Hits 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3181
-#EXTINF:-1 tvg-id="ext" tvg-name="10 | VEVO Latino Hits 2K" tvg-logo="https://i.ibb.co/q0dmgRh/latino.png" group-title="MUSICA",10 | VEVO Latino Hits 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3182
-#EXTINF:-1 tvg-id="ext" tvg-name="11 | LATIDO 2K Music Hits " tvg-logo="https://i.ibb.co/qpcX4P5/Latido-Template.jpg" group-title="MUSICA",11 | LATIDO 2K Music Hits 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3183
-#EXTINF:-1 tvg-id="ext" tvg-name="12 |  VM LATINO Music Hits" tvg-logo="https://cdn-radiotime-logos.tunein.com/s266398g.png" group-title="MUSICA",12 |  VM LATINO Music Hits
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3184
-#EXTINF:-1 tvg-id="ext" tvg-name="13 | Euro Indie Music UK" tvg-logo="https://i.pinimg.com/originals/59/3a/31/593a31bade625fb5003c241d38933f37.png" group-title="MUSICA",13 | Euro Indie Music UK
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3185
-#EXTINF:-1 tvg-id="ext" tvg-name="14 |  HITS 4K" tvg-logo="https://raptv.com/wp-content/uploads/2019/02/raptv_logo-1.png" group-title="MUSICA",14 |  HITS 4K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3186
-#EXTINF:-1 tvg-id="ext" tvg-name="15 | VEVO Only Hits 2K " tvg-logo="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F71510a98-659d-11e6-8310-ecf0bddad227?source=next-opengraph&fit=scale-down&width=900" group-title="MUSICA",15 | VEVO Only Hits 2K 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3187
-#EXTINF:-1 tvg-id="ext" tvg-name="16 |   VEVO World Hits 2K" tvg-logo="https://cdn-radiotime-logos.tunein.com/s187928q.png" group-title="MUSICA",16 |   VEVO World Hits 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3188
-#EXTINF:-1 tvg-id="ext" tvg-name="17 |  Vevo Reggaetón & Trap 2K" tvg-logo="https://www.pngkit.com/png/full/345-3456612_tropicana-tropics-logo-tropical-logo.png" group-title="MUSICA",17 |  Vevo Reggaetón & Trap 2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3189
-#EXTINF:-1 tvg-id="ext" tvg-name="18 | Hitmusic 2K " tvg-logo="https://images.radio.com/logos/jams_400x400_blackback.png" group-title="MUSICA",18 | Hitmusic 2K 
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3190
-#EXTINF:-1 tvg-id="ext" tvg-name="19 |  M2o Tv Y2K" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/music_choice.png" group-title="MUSICA",19 |  M2o Tv Y2K
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3191
-#EXTINF:-1 tvg-id="RMS.mx" tvg-name="20 | RMS MX SD" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/RMS-Logo-1-1322.gif" group-title="MUSICA",20 | RMS MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3669
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="21 | MTV LIVE MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="MUSICA",21 | MTV LIVE MX SD
-http://31.42.185.216:8000/3K2T6R1CA3/4GZ9DKB9BZ/3658
+#EXTINF:-1,MX | A&Eⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61101
+#EXTINF:-1,MX | ADN40ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61088
+#EXTINF:-1,MX | Adrenalinaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61172
+#EXTINF:-1,MX | Afizzionadosⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60895
+#EXTINF:-1,MX | AMCⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116855
+#EXTINF:-1,MX | AMCⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/116854
+#EXTINF:-1,MX | AMCⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61156
+#EXTINF:-1,MX | Animal Planetⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119957
+#EXTINF:-1,MX | Animal Planetⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61114
+#EXTINF:-1,MX | AXNⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61102
+#EXTINF:-1,MX | AYM Sportsⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61178
+#EXTINF:-1,MX | AZ Cinemaⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61152
+#EXTINF:-1,MX | AZ Clickⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61085
+#EXTINF:-1,MX | AZ Corazonⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61117
+#EXTINF:-1,MX | AZ Mundoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61128
+#EXTINF:-1,MX | Azteca 7ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61098
+#EXTINF:-1,MX | Azteca Unoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61176
+#EXTINF:-1,MX | Bandamaxⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61168
+#EXTINF:-1,MX | Bandamaxⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61065
+#EXTINF:-1,MX | BITmeⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60902
+#EXTINF:-1,MX | Boomerangⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61136
+#EXTINF:-1,MX | Canal 5ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61177
+#EXTINF:-1,MX | Canal Onceⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61179
+#EXTINF:-1,MX | Cartoon Networkⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60772
+#EXTINF:-1,MX | Cine Latinoⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61180
+#EXTINF:-1,MX | Cine Mexicanoⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61183
+#EXTINF:-1,MX | Cinecanalⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61184
+#EXTINF:-1,MX | Claro Sports 2ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/92784
+#EXTINF:-1,MX | Claro Sportsⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60903
+#EXTINF:-1,MX | CNN en Españolⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61094
+#EXTINF:-1,MX | CNN Internationalⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61093
+#EXTINF:-1,MX | Comedy Centralⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61106
+#EXTINF:-1,MX | Discovery Channelⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61027
+#EXTINF:-1,MX | Discovery Channelⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61142
+#EXTINF:-1,MX | Discovery H&Hⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61028
+#EXTINF:-1,MX | Discovery H&Hⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61143
+#EXTINF:-1,MX | Discovery IDⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119829
+#EXTINF:-1,MX | Discovery IDⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119831
+#EXTINF:-1,MX | Discovery IDⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119830
+#EXTINF:-1,MX | Discovery Scienceⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61084
+#EXTINF:-1,MX | Discovery Theaterⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61139
+#EXTINF:-1,MX | Disney Channelⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61132
+#EXTINF:-1,MX | Disney Jr.ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61130
+#EXTINF:-1,MX | Disney XDⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61135
+#EXTINF:-1,MX | Distrito Comediaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61125
+#EXTINF:-1,MX | ESPN 2ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61153
+#EXTINF:-1,MX | ESPN 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60998
+#EXTINF:-1,MX | ESPN 3ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61159
+#EXTINF:-1,MX | ESPN Extraⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61158
+#EXTINF:-1,MX | ESPNⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61160
+#EXTINF:-1,MX | Estrella TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61083
+#EXTINF:-1,MX | Food Networkⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/120000
+#EXTINF:-1,MX | Food Networkⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61103
+#EXTINF:-1,MX | Foro TVⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61181
+#EXTINF:-1,MX | Foro TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61046
+#EXTINF:-1,MX | Fox Sports 1ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61048
+#EXTINF:-1,MX | Fox Sports 1ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61089
+#EXTINF:-1,MX | Fox Sports 2ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61049
+#EXTINF:-1,MX | Fox Sports 2ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61091
+#EXTINF:-1,MX | Fox Sports 3ⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61050
+#EXTINF:-1,MX | Fox Sports 3ⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61092
+#EXTINF:-1,MX | FOX Sports Premiumⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/78290
+#EXTINF:-1,MX | Fuel TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61173
+#EXTINF:-1,MX | Gala TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61110
+#EXTINF:-1,MX | Garage TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61122
+#EXTINF:-1,MX | Glitzⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61123
+#EXTINF:-1,MX | History 2ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60996
+#EXTINF:-1,MX | Historyⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61140
+#EXTINF:-1,MX | Historyⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61035
+#EXTINF:-1,MX | Hola TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61108
+#EXTINF:-1,MX | Imagen TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60900
+#EXTINF:-1,MX | Ingenio TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/1745
+#EXTINF:-1,MX | Las Estrellasⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60894
+#EXTINF:-1,MX | Lifetimeⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61145
+#EXTINF:-1,MX | Mas Chicⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61109
+#EXTINF:-1,MX | Mexiquenseⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61170
+#EXTINF:-1,MX | MTV 00sⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61164
+#EXTINF:-1,MX | MTV 80sⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61167
+#EXTINF:-1,MX | MTV Hitsⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61166
+#EXTINF:-1,MX | MTV Liveⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61162
+#EXTINF:-1,MX | MTV Tr3sⓧ OFFLINE
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/128415
+#EXTINF:-1,MX | MTVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61165
+#EXTINF:-1,MX | Multimedios Plusⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61185
+#EXTINF:-1,MX | Multimediosⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61111
+#EXTINF:-1,MX | Multipremierⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61053
+#EXTINF:-1,MX | MVS TVⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119702
+#EXTINF:-1,MX | Nat Geo Kidsⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61112
+#EXTINF:-1,MX | Nat Geo Wildⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61171
+#EXTINF:-1,MX | National Geographicⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61144
+#EXTINF:-1,MX | Outdoorⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60769
+#EXTINF:-1,MX | PX Sportsⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/98855
+#EXTINF:-1,MX | Sky Sports LaLigaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102386
+#EXTINF:-1,MX | Sky Sports Premierⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/102387
+#EXTINF:-1,MX | Star Actionⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61148
+#EXTINF:-1,MX | Sundance TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61161
+#EXTINF:-1,MX | Telehit Plusⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61163
+#EXTINF:-1,MX | Televisa Monterreyⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60966
+#EXTINF:-1,MX | Televisa Tijuanaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61157
+#EXTINF:-1,MX | TL Novelasⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61127
+#EXTINF:-1,MX | TLCⓧ FHD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119997
+#EXTINF:-1,MX | TLCⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/119996
+#EXTINF:-1,MX | TLCⓧ SD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61116
+#EXTINF:-1,MX | Tru TVⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61105
+#EXTINF:-1,MX | TUDNⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/77320
+#EXTINF:-1,MX | TV Masⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60901
+#EXTINF:-1,MX | TVC Deportesⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60997
+#EXTINF:-1,MX | Unicableⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61107
+#EXTINF:-1,MX | Uno TV ⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/122261
+#EXTINF:-1,MX | Video Rolaⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/60805
+#EXTINF:-1,MX | Warnerⓧ HD
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61097
+#EXTINF:-1,MX | Zona Futbolⓧ
+http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/61244
